@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **9582anupamk@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lpjQRDw5OTFUAK3gdZjI0QezEr9nHS-mmGD0QHfuqxw/edit?ouid=100460249696758909809&usp=docs_home&ths=true](https://docs.google.com/document/d/1lpjQRDw5OTFUAK3gdZjI0QezEr9nHS-mmGD0QHfuqxw/edit?ouid=100460249696758909809&usp=docs_home&ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
