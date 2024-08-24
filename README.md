@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9582anupam" alt="9582anupam" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 Interested in Software Development
 
-- 👨‍💻 All of my projects are available at [https://9582anupam-portfolio.netlify.app/](https://9582anupam-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://9582anupam-portfolio.netlify.app/](https://9582anupam-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Python, Javascript**
 
