@@ -17,10 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/9582anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="9582anupam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anupam9582" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupam9582" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/9582anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="9582anupam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/9582anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="9582anupam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/9582anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="9582anupam" height="30" width="40" /></a>
 </p>
 
 <h2>Languages</h2>
