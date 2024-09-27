@@ -21,15 +21,15 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,express,node)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
