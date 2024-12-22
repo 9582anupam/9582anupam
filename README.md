@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9582anupam" alt="9582anupam" /></a> </p>
 
-- 🌱 Interested in Software Development
+- 👋 Hi, I’m Anupam
 
 - 👨‍💻 My Portfolio [https://9582anupam-portfolio.netlify.app/](https://9582anupam-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Python, Javascript**
-
+- 🌱 Interested in Software Development
+  
 - 📫 How to reach me **9582anupamk@gmail.com**
 
 
