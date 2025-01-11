@@ -25,7 +25,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,express,nodejs,firebase,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,express,nodejs,firebase,flask,npm,mui,vite,vs)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
@@ -33,7 +33,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9582anupam&show_icons=true&locale=en&layout=compact" alt="9582anupam" /></p>
 
