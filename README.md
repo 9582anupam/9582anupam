@@ -37,7 +37,7 @@
 ## 📊 **GitHub Stats**
 <div align="center">
   
-![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9582anupam&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9582anupam&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=9582anupam&theme=blue_navy)](https://git.io/streak-stats)
 
