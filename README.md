@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupam</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9582anupam&label=Profile%20views&color=0e75b6&style=flat" alt="9582anupam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9582anupam&label=Profile%20views&color=blue_navy&style=flat" alt="9582anupam" /> </p>
 
 
 - 👋 Hi, I’m Anupam
