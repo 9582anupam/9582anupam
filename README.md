@@ -34,8 +34,13 @@
  
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9582anupam&show_icons=true&locale=en&layout=compact" alt="9582anupam" /></p>
+## 📊 **GitHub Stats**
+<div align="center">
+  
+![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=9582anupam&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9582anupam&show_icons=true&locale=en" alt="9582anupam" /></p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=9582anupam&theme=blue_navy)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9582anupam&" alt="9582anupam" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9582anupam&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
