@@ -24,7 +24,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,express,nodejs,firebase,flask,npm,mui,vite,vs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,express,nodejs,firebase,flask,npm,mui,vite,vs)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
